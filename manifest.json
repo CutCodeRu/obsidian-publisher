@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-publisher",
+	"name": "Publisher",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "An easy way to write posts in obsidian and publish on social networks",
+	"author": "Danil Shutsky",
+	"authorUrl": "https://cutcode.dev",
+	"fundingUrl": "https://cutcode.dev",
+	"isDesktopOnly": false
+}
