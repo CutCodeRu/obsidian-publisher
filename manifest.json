@@ -1,9 +1,9 @@
 {
-	"id": "obsidian-publisher",
+	"id": "cutcode-publisher",
 	"name": "Publisher",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "An easy way to write posts in obsidian and publish on social networks",
+	"description": "Plugin for synchronization with telegram channels from CutCode",
 	"author": "Danil Shutsky",
 	"authorUrl": "https://cutcode.dev",
 	"fundingUrl": "https://cutcode.dev",
