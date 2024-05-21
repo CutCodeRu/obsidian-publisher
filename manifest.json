@@ -1,6 +1,6 @@
 {
 	"id": "cutcode-publisher",
-	"name": "Publisher",
+	"name": "CutCode Publisher",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "Plugin for synchronization with telegram channels from CutCode",
